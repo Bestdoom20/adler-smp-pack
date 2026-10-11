@@ -1,0 +1,5 @@
+ADLER SMP server resource pack
+
+Credits:
+Vanilla Tweaks: https://vanillatweaks.net/  (Borderless Glass, Lower Fire)
+Motschen's Better Leaves 9.6: https://modrinth.com/resourcepack/better-leaves  (MIT License, (c) Motschen)
